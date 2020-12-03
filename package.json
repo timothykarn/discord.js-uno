@@ -1,0 +1,34 @@
+{
+  "name": "discord.js-uno",
+  "version": "1.0.0",
+  "description": "A simple Uno game for Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timothykarn/discord.js-uno.git"
+  },
+  "keywords": [
+    "discord",
+    "discord-js",
+    "uno",
+    "framework",
+    "bot",
+    "games",
+    "fun"
+  ],
+  "author": "frozensynapses",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  },
+  "bugs": {
+    "url": "https://github.com/timothykarn/discord.js-uno/issues"
+  },
+  "homepage": "https://github.com/timothykarn/discord.js-uno#readme"
+}
